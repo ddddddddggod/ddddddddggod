@@ -30,7 +30,7 @@
 -Verilog, Python, C, C++
 
 ## Tools
- -PSPICE, Cadence Virtuoso, ADSV, AutoCAD, Fritzing, Questa, Xcellium, VCS, Design Compiler, Formality, PrimeTime, ICC2, Calibre, Innovus, STARRCXT
+ -PSPICE, Matlab, Cadence Virtuoso, ADSV, AutoCAD, Fritzing, Vivado, Quartus prime, Questa, Xcellium, VCS, Design Compiler, Formality, PrimeTime, ICC2, Calibre, Innovus, STARRCXT
 
 
 
