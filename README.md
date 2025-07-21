@@ -30,11 +30,21 @@
 -Verilog, Python, C, C++
 
 ## Tools
- -PSPICE, Matlab, Cadence Virtuoso, ADSV, AutoCAD, Fritzing, Vivado, Quartus prime, Questa, Xcellium, VCS, Design Compiler, Formality, PrimeTime, ICC2, Calibre, Innovus, STARRCXT
+- FPGA : Vivado, Quartus Prime  
+- Front-end : Questa, Xcellium, VCS, Design Compiler, Formality, PrimeTime  
+- Back-end : ICC2, Calibre, Innovus, STARRCXT  
+- Analog Circuit : PSPICE, Cadence Virtuoso, Fritzing, ADSV  
+- Simulation / Modeling : MATLAB  
+- Mechanical / CAD Design : AutoCAD  
+- Device & Multiphysics Simulation : TCAD, COMSOL
 
 
+<br>
+<br>
+<br>
 
 
+---
 
 ![flask](	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![colab](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -43,6 +53,5 @@
   ![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=200&section=footer)
