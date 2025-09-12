@@ -4,11 +4,11 @@
 
 ---
 ## Activity
-- **2025.06 ~ ing** : 반도체 아카데미 파운드리향 디자인 설계 전문 교육과정
+- **2025.06 ~ 2025.08** : 반도체 아카데미 파운드리향 디자인 설계 전문 교육과정
 - **2025.06** : [FPGA POS기 설계 프로젝트](https://github.com/ddddddddggod/POS) (in class)
 - **2024.11 ~ 2024.12** : lamda/6 Ring hybrid Coupler 설계 (in class)
 - **2024.05 ~ ing** : 반도체 전공 트랙
-     - **2025.03 ~ ing** : [ICMS용 메모리 효육적인 2DFFT 설계](https://github.com/ddddddddggod/2DFFT)
+     - **2025.03 ~ ing** : [ICMS용 메모리 효율적인 2DFFT 설계](https://github.com/ddddddddggod/2DFFT)
      - **2025.02** : 포스텍 나노 융합 기술원 공정 실습 수료
      - **2025.01 ~ 2025.02** : 글로벌 현장 학습 미국
      - **2024.12 ~ 2025.02** : 체형 교정 의자 아날로그 회로 설계 프로젝트
