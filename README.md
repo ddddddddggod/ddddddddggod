@@ -36,7 +36,7 @@
 - Analog Circuit : PSPICE, Cadence Virtuoso, Fritzing, ADSV  
 - Simulation / Modeling : MATLAB  
 - Mechanical / CAD Design : AutoCAD  
-- Device & Multiphysics Simulation : TCAD, COMSOL
+
 
 
 <br>
