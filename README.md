@@ -9,10 +9,9 @@
 - **2024.11 ~ 2024.12** : lamda/6 Ring hybrid Coupler 설계 (in class)
 - **2024.05 ~ ing** : 반도체 전공 트랙
      - **2025.03 ~ ing** : [ICMS용 메모리 효율적인 2DFFT 설계](https://github.com/ddddddddggod/2DFFT)
-     - **2025.02** : 포스텍 나노 융합 기술원 공정 실습 수료
-     - **2025.01 ~ 2025.02** : 글로벌 현장 학습 미국
+     - **2025.02** : 포스텍 나노 융합 기술원 공정 실습 
      - **2024.12 ~ 2025.02** : 체형 교정 의자 아날로그 회로 설계 프로젝트
-- **2024.05 ~ ing** : 반도체 소부장 마이크로디그리 과정 수료
+- **2024.05 ~ ing** : 반도체 소부장 마이크로디그리
 - **2024.04 ~ 2024.12** : 전북대 로봇동아리 ` 전BOT대 `  1기 멤버
    - **2024.05 ~ 2024.10** : [전통시장 화재 안전 관리 로봇 개발](https://github.com/ddddddddggod/JeonBOTdae)
 - **2023.05** : [기후변화에 적응한 디지털 축사 시스템 개발](https://github.com/ddddddddggod/GAEKSEORI)  (LG Ericsson Girls in ICT Hackathon_Finalist)
@@ -22,7 +21,7 @@
 - **2021.03 ~ ing** : 전북대 오케스트라 동아리 ` 브릴란테 ` 3기 피아노
      - **2024.03 ~ ing** : 기획부장 
 - **2021.03 ~ ing** : 전북대 전자공학부 학술동아리 ` 디딤돌 `
-- **2021.03 ~ ing** : 전북대 전자공학부 재학 중
+- **2021.03 ~ ing** : 전북대 전자공학부 재학 
 
 
 
@@ -32,12 +31,9 @@
 ## Tools
 - FPGA : Vivado, Quartus Prime  
 - Front-end : Questa, Xcellium, VCS, Design Compiler, Formality, PrimeTime  
-- Back-end : ICC2, Calibre, Innovus, STARRCXT  
+- Back-end : ICC2, Calibre, Innovus
 - Analog Circuit : PSPICE, Cadence Virtuoso, Fritzing, ADSV  
-- Simulation / Modeling : MATLAB  
-- Mechanical / CAD Design : AutoCAD  
-
-
+- beside: AutoCAD, Matlab
 
 <br>
 <br>
