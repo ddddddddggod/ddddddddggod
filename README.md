@@ -5,7 +5,7 @@
 ---
 ## Activity
 - **2026.02 ~ ing** : SuperCamp
-       - [Blake512]()
+       - [Blake512](https://github.com/ddddddddggod/Blake512)
 - **2025.06 ~ 2025.08** : 반도체 아카데미 파운드리향 디자인 설계 전문 교육과정
 - **2025.06** : [FPGA POS기 설계 프로젝트](https://github.com/ddddddddggod/POS) (in class)
 - **2024.11 ~ 2024.12** : lamda/6 Ring hybrid Coupler 설계 (in class)
