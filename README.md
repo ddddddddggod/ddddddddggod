@@ -8,11 +8,11 @@
     - [Blake512](https://github.com/ddddddddggod/Blake512)
 - **2025.06 ~ 2025.08** : 반도체 아카데미 파운드리향 디자인 설계 전문 교육과정
 - **2025.06** : [FPGA POS기 설계 프로젝트](https://github.com/ddddddddggod/POS) (in class)
-- **2024.11 ~ 2024.12** : lamda/6 Ring hybrid Coupler 설계 (in class)
 - **2024.05 ~ 2025.12** : 반도체 전공 트랙
      - **2025.04 ~ 2025.12** : [ICMS용 메모리 효율적인 2DFFT 설계](https://github.com/ddddddddggod/2DFFT)
      - **2025.02** : 포스텍 나노 융합 기술원 공정 실습 
      - **2024.12 ~ 2025.02** : 체형 교정 의자 아날로그 회로 설계 프로젝트
+- **2024.11 ~ 2024.12** : lamda/6 Ring hybrid Coupler 설계 (in class)
 - **2024.05 ~ ing** : 반도체 소부장 마이크로디그리
 - **2024.04 ~ 2024.12** : 전북대 로봇동아리 ` 전BOT대 `  1기 멤버
    - **2024.05 ~ 2024.10** : [전통시장 화재 안전 관리 로봇 개발](https://github.com/ddddddddggod/JeonBOTdae)
