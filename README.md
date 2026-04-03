@@ -4,7 +4,7 @@
 
 ---
 ## Activity
-- **2026.03 ~** : SoC design Engineer
+- **2026.03 ~ ing** : SoC design Engineer
 - **2026.02 ~ 2026.03** : SuperCamp
     - [Blake512](https://github.com/ddddddddggod/Blake512)
     - [Shabal](https://github.com/ddddddddggod/Shabal) (private)
