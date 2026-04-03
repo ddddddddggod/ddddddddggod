@@ -4,11 +4,13 @@
 
 ---
 ## Activity
-- **2026.02 ~ ing** : SuperCamp
+- **2026.03 ~** : SoC design Engineer
+- **2026.02 ~ 2026.03** : SuperCamp
     - [Blake512](https://github.com/ddddddddggod/Blake512)
     - [Shabal](https://github.com/ddddddddggod/Shabal) (private)
     - [I2C](https://github.com/ddddddddggod/I2C)
     - [SPI](https://github.com/ddddddddggod/SPI)
+    - [APB](https://github.com/ddddddddggod/APB/tree/main)
 - **2025.06 ~ 2025.08** : 반도체 아카데미 파운드리향 디자인 설계 전문 교육과정(Front-end & Back-end)
 - **2025.06** : [FPGA POS기 설계 프로젝트](https://github.com/ddddddddggod/POS) (in class)
 - **2024.05 ~ 2025.12** : 반도체 전공 트랙
