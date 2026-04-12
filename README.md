@@ -20,7 +20,7 @@
      - **2024.12 ~ 2025.02** : [체형 교정 의자 아날로그 회로 설계 프로젝트](https://blog.naver.com/spea_king_potato/223831128840)
 - **2024.11 ~ 2024.12** : [lamda/6 Ring hybrid Coupler 설계](https://blog.naver.com/spea_king_potato/223830230892) (in class)
 - **2024.05 ~ 2026.02** : 반도체 소부장 마이크로디그리
-- **2024.04 ~ 2024.12** : 전북대 로봇동아리 ` 전BOT대 `  1기 멤버
+- **2024.04 ~ 2024.12** : 전북대 로봇동아리 ` 전BOT대 `  1기 
    - **2024.05 ~ 2024.10** : [전통시장 화재 안전 관리 로봇 개발](https://github.com/ddddddddggod/JeonBOTdae)
 - **2023.05** : [기후변화에 적응한 디지털 축사 시스템 개발](https://github.com/ddddddddggod/GAEKSEORI)  (LG Ericsson Girls in ICT Hackathon_Finalist)
 - **2023.05 ~ 2023.11** : 대학생 제품 안전 지킴이 우수 서포터즈
