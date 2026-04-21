@@ -35,7 +35,9 @@
 
 
 ## Programming
--Verilog, Python, C
+- Verilog
+- Python
+- C
 ## Tools
 - FPGA : Vivado, Quartus Prime  
 - Front-end : Questa, Xcellium, VCS, Design Compiler, Formality, PrimeTime  
