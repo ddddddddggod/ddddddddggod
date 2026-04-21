@@ -12,6 +12,7 @@
     - [SPI](https://github.com/ddddddddggod/SPI)
     - [APB](https://github.com/ddddddddggod/APB/tree/main)
     - [CPU](https://github.com/ddddddddggod/cpu)
+    - [SDRAM](https://github.com/ddddddddggod/SDRAM/tree/main)
 - **2025.06 ~ 2025.08** : 반도체 아카데미 파운드리향 디자인 설계 전문 교육과정(Front-end & Back-end)
 - **2025.06** : [FPGA POS기 설계 프로젝트](https://github.com/ddddddddggod/POS) (in class)
 - **2024.05 ~ 2025.12** : 반도체 전공 트랙
