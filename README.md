@@ -39,11 +39,10 @@
 - Python
 - C
 ## Tools
-- FPGA : Vivado, Quartus Prime  
-- Front-end : Questa, Xcellium, VCS, Design Compiler, Formality, PrimeTime  
-- Back-end : ICC2, Calibre, Innovus
-- Analog Circuit : PSPICE, Cadence Virtuoso, Fritzing, ADSV  
-- beside: AutoCAD, Matlab
+- **Simulator** : Vivado, Modelsim, Questa, Xcellium, VCS
+- **EDA** : Design Compiler, Formality, PrimeTime, ICC2, Calibre, Innovus
+- **Analog Circuit** : PSPICE, Cadence Virtuoso, Fritzing, ADSV  
+- **Beside**: AutoCAD, Matlab
 
 <br>
 <br>
